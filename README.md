@@ -1,7 +1,8 @@
 About
 -----
 
-`fpdns` is an app for fingerprinting DNS-servers.
+[fpdns](https://github.com/kirei/fpdns) is an app for fingerprinting
+DNS-servers.
 
 The image is based on `alpine:latest`.
 
